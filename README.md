@@ -1,1 +1,1 @@
-# Pixela-Habit-Tracker
+The Pixela Habit Tracker project uses the requests module to interact with the Pixela API, helping users track daily habits. It utilizes various HTTP methods like POST for creating user profiles and graphs, PUT for updating values, GET for retrieving data, and DELETE for removing users or records. The project allows users to log specific activities and track habit completions for particular dates, providing insights into their progress over time.
